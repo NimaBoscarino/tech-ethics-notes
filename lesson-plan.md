@@ -13,6 +13,9 @@ Lecture portion:
   - "How to live a good life"
   - explain and evaluate intuitions — "gut feelings"
   - help to make decisions
+  - Universalizability: What if everyone did this?
+  - Consequentalism (Utilitarianism): What are the consequences of this?
+  - Deontology: Is my action right or wrong in itself? What is my duty?
 - Brainstorming as a group
   - How far through your day can you get without technology? (aside from being a dev haha)
   - What are some words that come to your mind when you think of technology?
@@ -55,6 +58,7 @@ Part 2:
 Small group discussions:
 
 - Provide each group with a selection of readings on a particular topic
+- Let groups search for articles and do some independent research
 - Give the groups some time to read through the readings, have small discussions, and make mind maps
 - Have the groups highlight interesting bits
 - Agree/Disagree with the ideas presented?
