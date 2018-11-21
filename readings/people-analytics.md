@@ -1,0 +1,7 @@
+- https://www.visier.com/clarity/six-steps-ethically-sound-people-analytics/
+- https://www.visier.com/clarity/determine-the-right-employee-salary-increase-using-people-analytics/
+- https://blog.cultureamp.com/david-green-is-right-we-must-rethink-ethics-in-hr
+- https://www.cornerstoneondemand.com/glossary/people-analytics
+- https://www.forbes.com/sites/joshbersin/2015/02/01/geeks-arrive-in-hr-people-analytics-is-here/#571fd9d073b4
+- https://www.analyticsinhr.com/blog/people-analytics-ethical-considerations/
+- https://www.ibm.com/watson/talent/talent-management-institute/ethical-dilemmas-hr-analytics/hr-ethical-dilemmas.pdf
