@@ -26,11 +26,13 @@ Lecture portion:
   - consumer data and privacy
     - advertising
   - freedom of speech and censorship
-  - use and abuse of social media (cyberbullying)
+  - use and abuse of social media (cyberbullying, fake news)
   - anonymity and spam
   - Intellectual property, copyright, and piracy
   - Hacking, scams, and other computer crimes
   - The "gig economy"
+    - taking advantage of marginalized communities
+    - Fiverr
     - Doordash (and others)
   - Automation and offshoring
   - Computer errors and failures. Who is responsible?
@@ -43,9 +45,11 @@ Lecture portion:
   - Environmentalism
     - The cloud!! It's just someone else's computer
     - Cryptocurrency nightmare
+    - Mining of rare earth metals
+    - E-waste
   - Overarching theme
     - Exploitation of people through the use of tech
-      - For advertising
+  - For advertising
   
 - Highlighting specific current events
 
