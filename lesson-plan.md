@@ -3,10 +3,16 @@ This lesson is mainly focused on doing a quick survey of interesting topics and 
 Part 1: Introduction to the Topic
 =================================
 
+- Start with Slaughterbots video
+
 Lecture portion:
 
 - Warning about content
   - Sometimes these things are upsetting to talk about
+- What is ethics?
+  - "How to live a good life"
+  - explain and evaluate intuitions — "gut feelings"
+  - help to make decisions
 - Brainstorming as a group
   - How far through your day can you get without technology? (aside from being a dev haha)
   - What are some words that come to your mind when you think of technology?
@@ -31,6 +37,9 @@ Lecture portion:
     - automated warfare
     - bias in algorithms
   - Open Source movement
+  - Environmentalism
+    - The cloud!! It's just someone else's computer
+    - Cryptocurrency nightmare
   - Overarching theme
     - Exploitation of people through the use of tech
       - For advertising
@@ -57,4 +66,9 @@ Part 3:
 Large group discussion:
 
 - Is there a particular topic that resonated with you?
-- Is there a topic that we didn't discuss which you feel is important?****
+- Is there a topic that we didn't discuss which you feel is important?
+
+
+Extra links (misc):
+
+http://www.digitalresponsibility.org/
