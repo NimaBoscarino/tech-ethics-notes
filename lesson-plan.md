@@ -75,7 +75,10 @@ Large group discussion:
 
 - Is there a particular topic that resonated with you?
 - Is there a topic that we didn't discuss which you feel is important?
+- Do we shape technology, or does technology shape us?
 
+- mitigation - what can we do about this?
+  - resources for ethical AI movements
 
 Extra links (misc):
 
