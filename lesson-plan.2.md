@@ -25,124 +25,119 @@ Lecture portion:
   
 - Brainstorming as a group
   - How far through your day can you get without technology? (aside from being a dev haha)
-   - my alarm (my phone)
-   - refrigerator
-   - stove
-   - breakfast utils
-   - transportation to work (skytrain, bus..., a car)
-   - toothbrush
-   - get water
-   - communication (even non-verbal)
-     - conference call
-     - keep in touch with family
-   - AC UNIIT
-   - entertainment
-     - Netflix
-       - Is it on Netflix tho.
-   - buy something (online shopping)
-   - fobs, keyless entry
-   - Crossing the road (street crossing light thing 🚶‍♀️)
-   - restaurants UBER eats
-   - Banking
-   - communicating with friends
-     - texting, phone stuff
-   - Internet memes
-   - Health purposes
+    - transportation
+    - google home wakes me up,
+    - gives traffic updates
+    - music - recreation
+      - Spotify
+    - Electricity to power everything
+    - Literally cannot live without something playing in the background if I'm by myself. I cannot be by myself in silence.
+      - Addiction to tech
+    - the internet to have access to unlimited information
+    - dating
+    - tech for finance
+      - gold coins
+    - ordering groceries
+      - our choice starts becoming maybe .... a bit more limited?
+        - not the best quality, so you can't pick out the best avocado
+    - Amazon - shopping
+    - Antilock Braking System
+    - Car safety features
+      - Navigation assist
+      - Blind spot detection
+    - GPS
+    - Phone calls 
+    - Food delivery
+    - Uber/Carsharing
 
   - What are some words that come to your mind when you think of technology?
-
-    - convenience
-    - progression
-    - shopping
-    - digital
-    - magic 🕴
-      - is it alienating?
-      - unattainable
-    - Apple Pay - credit card, banking
+    - addiction
+    - ... does legislation follow the growth of tech - NO
     - shiny
-    - fast
     - expensive
-    - Google
-    - Apple
-    - Hackers
-    - AI - artificial intelligence
-    - Machine Learning
-    - Robotics
-    - Silicon Valley
-    - Blockchain
-    - Steve Jobs
-    - Elon Musk
-    - Kanye West
-    - Nima Boscarino
-    - Kevin Rose - DIGG founder
-    - Jeff Bezos
-    - Bill Gates
-    - Mark Zucko (Zucker, Zucks, Smoked Meats)
-    - Steve Wozniak
-    - why are these all men?
-    - Marissa Mayer
-    - Ready Player One
-    - new media
-    - evolving
-    - Virtual Reality
+    - hacky
+    - convenience
+    - connection
+    - fast growing
+    - creepy
+    - javascript
+    - efficient
+    - baby boomer confusion
+    - taken for granted
+    - doomsday - Y2K, tech === death
+    - losing parts of what makes us human
+      - what does make us human?
+    - robot
+    - computer
+    - cables, wires
+    - artificial intelligence
+    - environmental impact
+    - security
+    - science
+    - blockchain
+    - accessibility
+    - Name some names
+    -  Samsung
+    -  Google
+    -  Apple
+    -  NASA
+    -  Uber
+    -  Twitter
+    -  Facebook
+       -  Bill Gates
+       -  Elon Musk - Ol Musky
+       -  Jeff Bezos
+       -  Tim Cook
+       -  Steve Jobs
+       -  Jack Dorsey
+       -  Lizard, Zucky Boi, Zuckmeister, Smoked Meats, Mark Zuckerberg
+      - CEOS
+      - MEGA RICH
+      - Questionable morals
+      - Nima Boscarino
+      - Estella Song
 
-   
   - What are some words that come to your mind when you think of ethics?
-    - conscience
-    - Chidi the Good Place
-    - follow the RULES
-      - which rules?
-      - societal rules?
-      - socially acceptable rules
-      - rule of law
-      - the Golden Rule
-      - Room to room, rules are different
-      - Differences in status, or just relationships to each other
+    - subjective
+      - your perspectives
+      - your experiences
+    - nature vs. nurture
+    - culture
+    - geography
+    - ability to critically judge your own beliefs
+      - self reflection
+      - "That's just the way things are" .... maybe not
+    - ability to empathize
+      - and not be zucc
+      - making time to empathize
+      - put yourself in someone else's shoes
+        - how do they feel?
+        - how is their life affected?
+    - Logical side of ethics:
+      - just because something makes a certain emotion happen, we have to think of the overall scope
+    - bravery
+      - Malala
+      - it's not always easy to be ethical, and to stand up
+      - whistleblower
+        - Edward snowden
+        - Chelsea Manning
+        - Chris Wylie
+        - Julian Assange
     - transparency
-    - democracy
-    - honesty
-      - If you make a decision, being honest about why you're making that decision (transparency)
-    - caring
-    - empathy
-    - accountability
-    - responsibility
-    - anti-discriminatory
-    - consent
-   
-  - Can you think of current (or past) events that have elements of ethics and technology?
-    - Huawei
-    - Facebook
-      - Cambridge Analytica
-    - Data mining
-    - Samsung phones exploding
-    - Apple products designed to break at inconvenient times (planned obsolecense)
-    - Apple forced everyone to have the U2 album (forced marketing, some sort of invasion)
-    - Technology listening to people
-      - Google Home Mini
-    - Pricing strategies
-      - price fixing
-    - Microtransactions
-    - Phishing scams
-    - Piracy - Netflix cut down on me pirating at least...
-    - The deep web
-      - Hire a hitman
-      - Source some people
-    - Sex trafficking 
-    - Blackmail
-      - Cyberbullying
-    - DDoS
-    - Open Internet
-    - Swatting
-    - Google manifesto (do no evil)
-      - diversity
-    - Misinformation - fake articles, fake news 
-    - Products that alienate... or are designed for a subset of people accidentally
-      - Hand dryers
-    - general lack of meaningful consent
+      - about the things they do
+      - 
+  - Can you think of events that have elements of ethics and technology?
+    - natural disasters and facebook allowing people to mark themselves as safe
+      - Haiti, political upheaval, communication with groups to help keep the overall population safe
+    - China's social credit system
+    - Verizon was throttling firefighters' data during fires
+    - Facebook privacy stuff in general
+    - Gamergate
+      - fuelled by social media
+    - Cyberbullying
   
 - Short overview of some of the ethical issues that arise from technology (TOPICS PULLED FROM CMPT 320 SYLLABUS)
   - consumer data and privacy
-    - facebook ran experiments
     - advertising
   - freedom of speech and censorship
   - use and abuse of social media (cyberbullying, fake news)
@@ -183,8 +178,6 @@ Lecture portion:
 - Why is this important?
   - Cambridge Analytica whistleblower — it could be you!
 
-WHAT CAN WE DO TO ALLEVIATE THIS PROBLEM.
-
 Part 2: 
 =================================
 
@@ -201,8 +194,6 @@ Part 3:
 =================================
 
 Large group discussion:
-
-- Duality
 
 - Is there a particular topic that resonated with you?
 - Is there a topic that we didn't discuss which you feel is important?
